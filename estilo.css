@@ -1,0 +1,117 @@
+body{
+    background-color: rgba(123, 126, 67, 1);
+}
+
+
+
+h1,h2,h3{
+    color: rgba(231, 214, 185, 1);
+    text-align: center;
+    margin-top:2rem ;
+    margin-bottom: 4rem;
+}
+
+
+
+
+
+.navbar-toggler-icon {
+    background-color: rgba(231, 214, 185, 1);
+}
+
+.carousel-inner{
+    height: 40rem;
+}
+
+.info1{
+    
+
+    padding-top: 10rem;
+}
+
+
+#galeria img{
+    width: 100%;
+    border: 2px solid rgb(135, 139, 135);
+    border-radius:1rem;
+
+
+}
+
+.col-lg-4{
+    margin: 0 !important;
+    padding: 20px;
+    
+}
+
+h4{
+    text-align: center;
+    color: rgba(231, 214, 185, 0.8);
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+h1{
+    font-family: 'Magnivera Trial', sans-serif;
+    font-size: 3rem;
+    
+                                                
+}
+
+a{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.card-img-top{
+
+    height: 20rem;
+}
+
+.card{
+
+    background-color: rgba(231, 214, 185, 1);
+}
+
+.card-title, .card-text{
+
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(81, 83, 34);
+}
+
+.card-title{
+
+    font-weight: bolder;
+}
+
+
+.contact{
+   background: rgba(231, 214, 185, 1);
+
+   width: 11rem;
+
+   height: 2rem;
+
+   
+
+   border-radius: 10rem;
+
+   padding-left: 1rem;
+
+   padding-top: 5px;
+
+   font-family: montserrat;
+
+   font-weight: bold;
+
+}
+
+.nav-link{
+
+    margin: 10px;
+}
